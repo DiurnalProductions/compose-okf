@@ -1,0 +1,8 @@
+{
+  "id": "compose-okf",
+  "name": "Jetpack Compose Knowledge Pack",
+  "version": "0.1",
+  "description": "OKF knowledge base for Jetpack Compose (declarative UI, state management, recomposition, layout, side effects, and architecture)",
+  "entry": "index.md",
+  "tags": ["compose", "android", "ui", "declarative", "kotlin"]
+}
